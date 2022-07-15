@@ -13,10 +13,10 @@ Use to track the time you spend on different things everyday!
      alt="Table Icon"
      style="float: left; margin-right: 10px;" />
      
-     <img src="table2.jpg"
+<img src="table2.jpg"
      alt="Table Icon"
      style="float: left; margin-right: 10px;" />
      
-     <img src="table3.jpg"
+<img src="table3.jpg"
      alt="Table Icon"
      style="float: left; margin-right: 10px;" />
