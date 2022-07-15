@@ -9,6 +9,14 @@ Use to track the time you spend on different things everyday!
 - view the break up in the middle table for ease of entry into a company timesheet!
 - copy and add the template into multiple sheets to keep track of multiple weeks 
 
-<img src=""
+<img src="table1.jpg"
+     alt="Table Icon"
+     style="float: left; margin-right: 10px;" />
+     
+     <img src="table2.jpg"
+     alt="Table Icon"
+     style="float: left; margin-right: 10px;" />
+     
+     <img src="table3.jpg"
      alt="Table Icon"
      style="float: left; margin-right: 10px;" />
