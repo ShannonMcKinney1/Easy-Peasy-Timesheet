@@ -4,6 +4,7 @@ Use to track the time you spend on different things everyday!
 
 ### How-To
 --------------------
+- Download "Blank Timesheet.xlsx"
 - Change the names of the values in the table on the right. 
 - Enter in your start and end times on the table on the left
 - Pick the catagory from the dropdown
